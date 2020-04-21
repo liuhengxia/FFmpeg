@@ -38,3 +38,4 @@ As this repository includes code from upstream project(s) it includes many copyr
 ## Contributing
 
 Patches related to the ShiftMediaProject specific changes should be sent as pull requests to the main repository. Any changes related to the upstream project should be sent upstream directly (see the contributing information of the upstream repository for more details).
+https://www.cnblogs.com/BensonLaur/p/10989115.html
